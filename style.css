@@ -100,7 +100,9 @@ section.title div.title-div div.title-container ul {
 section.title img.profile {
     width: 20%;
     border-radius: 50%;
+   
 }
+
 
 .section-title {
     font-weight: 700;
@@ -108,6 +110,8 @@ section.title img.profile {
     line-height: 26px;
     text-align: center;
 }
+
+
 
 /*Sessão About*/
 
@@ -601,7 +605,9 @@ section.footer div.rodape {
         font-weight: 500;
         text-align: center;
         padding: 1%;
+       
     }
+
 }
 
 @media (min-width: 1440px) {
